@@ -8,7 +8,7 @@ Stack: Node JS, Express JS, MongoDB, Mongoose, EJS
 ![Screenshot 2023-03-14 131602](https://user-images.githubusercontent.com/97042529/224932149-0f4534ce-b9ee-4e75-bbf3-65e786a6f503.png)
 
 ## MainPage
-![Screenshot 2023-03-14 131602](https://user-images.githubusercontent.com/97042529/224932210-a39317e7-72d0-4f19-af69-2bc0d4f4eea4.png)
+![Screenshot 2023-03-14 131827](https://user-images.githubusercontent.com/97042529/224932779-8700f500-4458-4329-9bc4-63f3175a7bb3.png)
 
 ## Campgrounds Page
 ![Screenshot 2023-03-14 131602](https://user-images.githubusercontent.com/97042529/224932269-28a141a8-59be-4165-a0a8-266a88392734.png)
