@@ -4,10 +4,10 @@ Stack: Node JS, Express JS, MongoDB, Mongoose, EJS
 
 # Features
 . Responsive web design (RWD)</br>
-. User authentication (Login/Register/Logout) and authorization (Post/Like/Edit)
-. Flash messages responding to users' interaction
-. Refactored with ES6 and ES7 syntax (eg: async/await)
-. RESTful API
+. User authentication (Login/Register/Logout) and authorization (Post/Like/Edit)</br>
+. Flash messages responding to users' interaction</br>
+. Refactored with ES6 and ES7 syntax (eg: async/await)</br>
+. RESTful API</br>
 
 # Npm Packages
 ##### Cloudinary
