@@ -11,11 +11,11 @@ Stack: Node JS, Express JS, MongoDB, Mongoose, EJS
 
 -------------------------------------------------------------------------
 Normal Routes
--------------------------------------------------------------------------
-[Method]  [Route]
-GET       /                       Landing page
-GET       /login                  Request the user login page
-GET       /register               Request the user edit page
+-------------------------------------------------------------------------</br>
+[Method]  [Route]</br>
+GET       /                       Landing page</br>
+GET       /login                  Request the user login page</br>
+GET       /register               Request the user edit page</br>
 
 -------------------------------------------------------------------------
 Users Route
