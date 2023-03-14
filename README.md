@@ -13,16 +13,16 @@ Stack: Node JS, Express JS, MongoDB, Mongoose, EJS
 Normal Routes
 -------------------------------------------------------------------------</br>
 [Method]  [Route]</br>
-GET       /                       Landing page</br>
-GET       /login                  Request the user login page</br>
-GET       /register               Request the user edit page</br>
+GET       /                       : Landing page</br>
+GET       /login                  : Request the user login page</br>
+GET       /register               : Request the user edit page</br>
 
 -------------------------------------------------------------------------
 Users Route
 -------------------------------------------------------------------------</br>
 [Method]  [Route]</br>
-GET       /users                  Fetch all users</br>
-POST      /users                  Create new user in database</br></br>
+GET       /users                  : Fetch all users</br>
+POST      /users                  : Create new user in database</br></br>
 GET       /users/new              Request the user register page</br>
 GET       /users/:id              Show the user information</br>
 PATCH     /users/:id              Update user information</br>
