@@ -3,7 +3,7 @@
 Stack: Node JS, Express JS, MongoDB, Mongoose, EJS
 
 # Features
-. Responsive web design (RWD)
+. Responsive web design (RWD)</br>
 . User authentication (Login/Register/Logout) and authorization (Post/Like/Edit)
 . Flash messages responding to users' interaction
 . Refactored with ES6 and ES7 syntax (eg: async/await)
