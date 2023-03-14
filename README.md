@@ -19,45 +19,45 @@ GET       /register               Request the user edit page</br>
 
 -------------------------------------------------------------------------
 Users Route
--------------------------------------------------------------------------
-[Method]  [Route]
-GET       /users                  Fetch all users
-POST      /users                  Create new user in database
-GET       /users/new              Request the user register page
-GET       /users/:id              Show the user information
-PATCH     /users/:id              Update user information
-DELETE    /users/:id              Delete user information
-GET       /users/:id/edit         Request the user edit page
+-------------------------------------------------------------------------</br>
+[Method]  [Route]</br>
+GET       /users                  Fetch all users</br>
+POST      /users                  Create new user in database</br></br>
+GET       /users/new              Request the user register page</br>
+GET       /users/:id              Show the user information</br>
+PATCH     /users/:id              Update user information</br>
+DELETE    /users/:id              Delete user information</br>
+GET       /users/:id/edit         Request the user edit page</br>
 
 -------------------------------------------------------------------------
 Sessions Route
 -------------------------------------------------------------------------
-[Method]  [Route]
-POST      /sessions               Create a session (user login)
-GET       /sessions/login         Request the user login page
-DELETE    /sessions               Delete a session (user logout)
+[Method]  [Route]</br>
+POST      /sessions               Create a session (user login)</br>
+GET       /sessions/login         Request the user login page</br>
+DELETE    /sessions               Delete a session (user logout)</br>
 
 -------------------------------------------------------------------------
 Campgrounds Route
 -------------------------------------------------------------------------
-[Method]  [Route]
-GET       /campgrounds            Fetch all campgrounds
-POST      /campgrounds            Create a new campground to database
-GET       /campgrounds/new        Request the campground adding page
-GET       /campgrounds/:id        Show the campground information
-PUT       /campgrounds/:id        Update campground information (all)
-PATCH     /campgrounds/:id        Update campground information (part)
-DELETE    /campgrounds/:id        Delete a campground
-GET       /campgrounds/:id/edit   Request the campground editing page
-POST      /campgrounds/:id/likes  Like the campground
+[Method]  [Route]</br>
+GET       /campgrounds            Fetch all campgrounds</br>
+POST      /campgrounds            Create a new campground to database</br>
+GET       /campgrounds/new        Request the campground adding page</br>
+GET       /campgrounds/:id        Show the campground information</br>
+PUT       /campgrounds/:id        Update campground information (all)</br>
+PATCH     /campgrounds/:id        Update campground information (part)</br>
+DELETE    /campgrounds/:id        Delete a campground</br>
+GET       /campgrounds/:id/edit   Request the campground editing page</br>
+POST      /campgrounds/:id/likes  Like the campground</br>
 
 -------------------------------------------------------------------------
 Comments Route
 -------------------------------------------------------------------------
-[Method]  [Route]
-POST      /campgrounds/:id/comments       Create a new comment
-PATCH     /campgrounds/:id/comments/:cid  Update comment
-DELETE    /campgrounds/:id/comments/:cid  Delete comment
+[Method]  [Route]</br>
+POST      /campgrounds/:id/comments       Create a new comment</br>
+PATCH     /campgrounds/:id/comments/:cid  Update comment</br>
+DELETE    /campgrounds/:id/comments/:cid  Delete comment</br>
 
 # Npm Packages
 ##### Cloudinary
