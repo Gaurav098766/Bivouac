@@ -3,21 +3,21 @@
 Stack: Node JS, Express JS, MongoDB, Mongoose, EJS
 
 # Npm Packages
-. Cloudinary
-. Connect-flash
-. dotenv
-. ejs
-. ejs-mate
-. express
-. express-mongo-sanitize
-. express-session
-. helmet
-. joi
-. mongoose
-. multer
-. nodemon
-. passport
-. sanitize-html
+### Cloudinary
+### Connect-flash
+### dotenv
+### ejs
+### ejs-mate
+### express
+### express-mongo-sanitize
+### express-session
+### helmet
+### joi
+### mongoose
+### multer
+### nodemon
+### passport
+### sanitize-html
 
 # Gallery
 
