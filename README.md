@@ -11,17 +11,21 @@ Stack: Node JS, Express JS, MongoDB, Mongoose, EJS
 ![mp](https://user-images.githubusercontent.com/97042529/224933023-42cb56ed-e4db-42a9-b85b-16bbd3179e18.png)
 
 ## Campgrounds Page
-![Screenshot 2023-03-14 131602](https://user-images.githubusercontent.com/97042529/224932269-28a141a8-59be-4165-a0a8-266a88392734.png)
+![cp](https://user-images.githubusercontent.com/97042529/224933240-8eb5668d-11d8-4b24-a979-413dd8fb6204.png)
 
 ## Login Page
 ![Screenshot 2023-03-14 131725](https://user-images.githubusercontent.com/97042529/224932350-c14b62e6-7d2e-4242-a2fe-16fc327ff58e.png)
 
 ## Register Page
-![Screenshot 2023-03-14 131725](https://user-images.githubusercontent.com/97042529/224932428-f4ef44a9-0c87-428d-8051-c89d3c1bfd54.png)
+![rp](https://user-images.githubusercontent.com/97042529/224933360-77e8b912-960a-401a-9721-df090e581e29.png)
+
+## New Campground Page
+![ncp](https://user-images.githubusercontent.com/97042529/224933542-ab375303-7035-4198-81f0-ec9dd8430b0a.png)
 
 ## Edit Campground Page
-![Screenshot 2023-03-14 131827](https://user-images.githubusercontent.com/97042529/224932491-5a77a3ab-55b1-4a29-bec3-aef78eaf2521.png)
+![ecp](https://user-images.githubusercontent.com/97042529/224933608-c5810ce7-b381-4be5-9c1e-fe1ae5f3bd98.png)
 
 ## Deletion and Add Stars and Comments Page
-![Screenshot 2023-03-14 131827](https://user-images.githubusercontent.com/97042529/224932612-589b838f-2d0a-4646-a2d4-824c66f6f2df.png)
+![dr page](https://user-images.githubusercontent.com/97042529/224933716-aed8baf9-5a27-44cb-baed-0ddd9b8e019d.png)
+
 
