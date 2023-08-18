@@ -12,7 +12,7 @@ A website for reviewing campgrounds by using the data of users such as their geo
 
 
 
-## API Reference
+## API References
 
 #### Normal Routes
 
